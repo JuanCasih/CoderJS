@@ -125,3 +125,10 @@ margin-top: 500px
       background-position: 0 0;
     }
   }
+  .delete-product{
+    cursor: pointer;
+   justify-content: end;
+  }
+  .modal-header-button{
+    cursor: pointer;
+  }
