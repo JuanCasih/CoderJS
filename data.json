@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "nombre": "T-shirt",
+        "precio": 50,
+        "img":"images/remera.JPG",
+        "cantidad":1
+       
+        
+    },
+    {
+        "id": 2,
+        "nombre": "Baby Tee",
+        "precio": 70,
+        "img" : "images/musculosa.JPG",
+        "cantidad":1
+        
+    },
+    {
+        "id": 3,
+        "nombre": "Pants",
+        "precio": 90,
+        "img":"images/pantalon.JPG",
+        "cantidad":1
+        
+    },
+    {
+        "id": 4,
+        "nombre": "Cap",
+        "precio": 30,
+        "img":"images/gorra.JPG",
+        "cantidad":1
+        
+ 
+    }
+]
